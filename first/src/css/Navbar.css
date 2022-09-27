@@ -1,0 +1,10 @@
+.Navbar {
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Navbar h1 {
+    margin-left: 50px;
+}
